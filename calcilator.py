@@ -14,5 +14,6 @@ elif s == "*":
 else:
     pass
    
-
+for i in range(1, 100):
+    print(i+1)
     
